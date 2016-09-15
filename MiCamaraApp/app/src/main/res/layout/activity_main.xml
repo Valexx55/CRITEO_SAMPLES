@@ -1,0 +1,8 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <ImageView android:id="@+id/captureimg" android:layout_width="match_parent"
+               android:layout_height="match_parent" android:layout_weight="80"/>
+</LinearLayout>
